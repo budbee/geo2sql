@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            18.05338171072291,
+                            59.33782357140704
+                        ],
+                        [
+                            18.051915336974115,
+                            59.33744475568815
+                        ],
+                        [
+                            18.05022225394487,
+                            59.33701037374748
+                        ],
+                        [
+                            18.05338171072291,
+                            59.33782357140704
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "stroke": "#ff0000",
+                "stroke-opacity": 1,
+                "fill-opacity": 0,
+                "NAME2": "Testdata",
+                "LABEL": "Testdata"
+            }
+        }
+    ]
+}
