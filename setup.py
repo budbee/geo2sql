@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 setup(
     name="geo2sql",
-    version="1.0.0a1",
+    version="1.0.0a2",
     author="David Nilsson",
     author_email="david.nilsson@budbee.com",
     url="https://github.com/budbee/geo2sql",
